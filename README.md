@@ -1,4 +1,7 @@
 # 🧮 Maths Summery Book 😊
+
+![cover-image](https://github.com/KASUNHapangama/maths/blob/main/images/cover.png)
+
 Maths Summery book that i created for my personal usecases in Sliit Bsc. IT (SE) programme
 
 ## Main Subjects that maybe included in this
