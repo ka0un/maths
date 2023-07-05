@@ -2,7 +2,7 @@
 
 Maths Summery book that i created for my personal usecases in Sliit Bsc. IT (SE) programme
 
-## Main Subjects that maybe included in this
+## ⭐ Main Subjects that maybe included in this
 
 - MA0014 Foundational Mathematics (orientation)
   - [ ] 01 Basic Algebra 
@@ -18,6 +18,6 @@ Maths Summery book that i created for my personal usecases in Sliit Bsc. IT (SE)
   
 - IT2110 Probability and Statistics (y2s2)
 
-## Disclaimer
+## ⚠️ Disclaimer
 This project is designated for private use only. It has been developed exclusively for personal purposes. Please note that the information contained within this repository may be subject to inaccuracies, lack clarity, or potentially mislead.
 
