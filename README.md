@@ -21,5 +21,5 @@ Maths Summery book that i created for my personal usecases in Sliit Bsc. IT (SE)
 - IT2110 Probability and Statistics (y2s2)
 
 ## Disclaimer
-This is NOT a public project. this is made for keep my personal usage. infomation on this repository may be wrong, unclear or misleading!
+This project is designated for private use only. It has been developed exclusively for personal purposes. Please note that the information contained within this repository may be subject to inaccuracies, lack clarity, or potentially mislead.
 
