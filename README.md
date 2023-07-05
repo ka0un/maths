@@ -4,7 +4,7 @@ Maths Summery book that i created for my personal usecases in Sliit Bsc. IT (SE)
 ## ⭐ Main Subjects that maybe included in this
 
 - MA0014 Foundational Mathematics (orientation)
-  - [ ] 01 Basic Algebra 
+  - [x] 01 Basic Algebra [summery](), [Videos](https://github.com/KASUNHapangama/maths/blob/main/VIDEO-TUTORIALS.md#01-basic-algebra)
   - [ ] 02 Sets
   - [ ] 03 Statistics
   - [ ] 04 Matrices
