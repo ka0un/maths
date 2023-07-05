@@ -1,6 +1,4 @@
-# 🧮 Maths Summery Book 😊
-
-![cover-image](https://github.com/KASUNHapangama/maths/blob/main/images/cover.png)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Maths%20Summery%20Book&fontSize=75)
 
 Maths Summery book that i created for my personal usecases in Sliit Bsc. IT (SE) programme
 
