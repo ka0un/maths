@@ -41,3 +41,4 @@
   - [Evaluating Logs](https://www.youtube.com/watch?v=kqVpPSzkTYA)
   - [Rules of Exponents](https://www.youtube.com/watch?v=etMK3xViMAc)
   - [Rules of Logarithmes](https://www.youtube.com/watch?v=Jtv9Lnf7Zw8)
+  - [Changing the Base](https://www.youtube.com/watch?v=FFm-zaFW_X4)
