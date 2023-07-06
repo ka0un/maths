@@ -9,9 +9,10 @@ Maths Summery book that i created for my personal usecases in Sliit Bsc. IT (SE)
   - [ ] 03 Statistics
   - [ ] 04 Matrices
   - [ ] 05 Functions
-  - [ ] 06 Differentation
-  - [ ] 07 Integration
-  - [ ] 08 Trigonometry
+  - [ ] 06 Logarithms
+  - [ ] 07 Differentation
+  - [ ] 08 Integration
+  - [ ] 09 Trigonometry
       
 - IT1030 Mathematics for Computing (y1s1)
   
