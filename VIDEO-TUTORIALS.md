@@ -55,3 +55,5 @@
   - [Sum Rule](https://www.youtube.com/watch?v=-Bcc0qvv2ms)
   - [Definite Integral](https://www.youtube.com/watch?v=Gc3QvUB0PkI)
   - [Absolute Value Function](https://www.youtube.com/watch?v=X2OYT2vByPQ)
+
+### 09 Trigonometry
