@@ -4,7 +4,7 @@ Maths Summery book that i created for my personal usecases in Sliit Bsc. IT (SE)
 ## ⭐ Main Subjects that maybe included in this
 
 - MA0014 Foundational Mathematics (orientation)
-  - [x] 01 Basic Algebra [Summery](), [Videos](https://github.com/KASUNHapangama/maths/blob/main/VIDEO-TUTORIALS.md#01-basic-algebra)
+  - [ ] 01 Basic Algebra 
   - [ ] 02 Sets
   - [ ] 03 Statistics
   - [ ] 04 Matrices
@@ -16,6 +16,10 @@ Maths Summery book that i created for my personal usecases in Sliit Bsc. IT (SE)
 - IT1030 Mathematics for Computing (y1s1)
   
 - IT2110 Probability and Statistics (y2s2)
+
+## 📺 Video Tutorials
+I listed free youtube tutorials that covers the sylabus
+[Video Tutorials](https://github.com/KASUNHapangama/maths/blob/main/VIDEO-TUTORIALS.md)
 
 ## ⚠️ Disclaimer
 This project is designated for private use only. It has been developed exclusively for personal purposes. Please note that the information contained within this repository may be subject to inaccuracies, lack clarity, or potentially mislead.
