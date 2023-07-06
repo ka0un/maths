@@ -37,3 +37,7 @@
   - [Composite Functions](https://www.youtube.com/watch?v=ZFPkQkURSxk)
  
 ### 06 Logarithms
+  - [log to exp](https://www.youtube.com/watch?v=f0C1KL7GkqY)
+  - [Evaluating Logs](https://www.youtube.com/watch?v=kqVpPSzkTYA)
+  - [Rules of Exponents](https://www.youtube.com/watch?v=etMK3xViMAc)
+  - [Rules of Logarithmes](https://www.youtube.com/watch?v=Jtv9Lnf7Zw8)
