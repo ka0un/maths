@@ -29,5 +29,11 @@
   - [Types of Matrices](https://www.youtube.com/watch?v=3-s0IwdDcgE)
 
 ### 05 Functions
-
+  - [Intro](https://www.youtube.com/watch?v=kvGsIo1TmsM)
+  - [Identifying Function](https://www.youtube.com/watch?v=wbBY2tTqXDA)
+  - [One to One and Onto](https://www.youtube.com/watch?v=plSzGYwo-ew)
+  - [Computing Inverse Function](https://www.youtube.com/watch?v=2zeYEx4eTdc)
+  - [Horisontal Line Test](https://www.youtube.com/watch?v=6u9Qh1Vi_Qw&t=66s)
+  - 
  
+### 06 Logarithms
