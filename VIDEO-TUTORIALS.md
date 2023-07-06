@@ -42,3 +42,16 @@
   - [Rules of Exponents](https://www.youtube.com/watch?v=etMK3xViMAc)
   - [Rules of Logarithmes](https://www.youtube.com/watch?v=Jtv9Lnf7Zw8)
   - [Changing the Base](https://www.youtube.com/watch?v=FFm-zaFW_X4)
+
+### 07 Differentiation
+  - [Differentiation Formulas](https://www.youtube.com/watch?v=AdLAkD-r9Rs)
+  - [Product Rule](https://www.youtube.com/watch?v=17X5g9QArTc)
+  - [Quotient Rule](https://www.youtube.com/watch?v=8jVDEcQ0wXk)
+  - [Chain rule](https://www.youtube.com/watch?v=HaHsqDjWMLU)
+
+### 08 Integration
+  - [Basics and Power Rule](https://www.youtube.com/watch?v=zOxaUlRkFG0)
+  - [Constant Multiple Rule](https://www.youtube.com/watch?v=2kg-LfyuXCQ)
+  - [Sum Rule](https://www.youtube.com/watch?v=-Bcc0qvv2ms)
+  - [Definite Integral](https://www.youtube.com/watch?v=Gc3QvUB0PkI)
+  - [Absolute Value Function](https://www.youtube.com/watch?v=X2OYT2vByPQ)
