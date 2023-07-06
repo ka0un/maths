@@ -34,6 +34,6 @@
   - [One to One and Onto](https://www.youtube.com/watch?v=plSzGYwo-ew)
   - [Computing Inverse Function](https://www.youtube.com/watch?v=2zeYEx4eTdc)
   - [Horisontal Line Test](https://www.youtube.com/watch?v=6u9Qh1Vi_Qw&t=66s)
-  - 
+  - [Composite Functions](https://www.youtube.com/watch?v=ZFPkQkURSxk)
  
 ### 06 Logarithms
