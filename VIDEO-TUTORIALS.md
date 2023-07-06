@@ -8,3 +8,26 @@
   - [Simple Partial Fractions](https://www.youtube.com/watch?v=QKkdYW77xNI)
 
 ### 02 Sets
+  - [Intersection and Union](https://www.youtube.com/watch?v=xZELQc11ACY)
+  - [Sets and Notations](https://www.youtube.com/watch?v=r6xK7YkVjyg)
+  - [Set Laws](https://www.youtube.com/watch?v=zF8Yat-u8sQ)
+
+### 03 Statistics
+  - [Intro](https://www.youtube.com/watch?v=Ge9je05uYJ0)
+  - [Box and Plots](https://www.youtube.com/watch?v=mhaGAaL6Abw)
+  - [Central Tendency](https://www.youtube.com/watch?v=A1mQ9kD-i9I)
+  - [Calculating Variance](https://www.youtube.com/watch?v=deIQeQzPK08)
+  - [Calculating Standerd Deviation](https://www.youtube.com/watch?v=Uk98hiMQgN0)
+  - [Probability](https://www.youtube.com/watch?v=SkidyDQuupA)
+
+### 04 Matrices
+  - [Intro](https://www.youtube.com/watch?v=yRwQ7A6jVLk)
+  - [Scalar Multiplication](https://www.youtube.com/watch?v=iJERwUVuwtY)
+  - [Matreic Multiplication](https://www.youtube.com/watch?v=2spTnAiQg4M)
+  - [Determinant](https://www.youtube.com/watch?v=3ROzG6n4yMc)
+  - [Inverse](https://www.youtube.com/watch?v=aiBgjz5xbyg)
+  - [Types of Matrices](https://www.youtube.com/watch?v=3-s0IwdDcgE)
+
+### 05 Functions
+
+ 
