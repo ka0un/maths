@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=100&section=header&text=Maths%20Free%20youtube%20video%20tutorials%20that%20i%20used%20to%20study%20each%20lessons&fontSize=25)
 ## Subject MA0014 - Foundational Mathamatics
+> ⚠️ Refer presentation slides before watching videos
+
 ### 01 Basic Algebra
   - [Algebraic Fractions](https://www.youtube.com/watch?v=WSQh4o3yu4I)
   - [Addition of Algebraic Fractions](https://www.youtube.com/watch?v=1KGVwaUhR-s)
@@ -33,7 +35,7 @@
   - [Identifying Function](https://www.youtube.com/watch?v=wbBY2tTqXDA)
   - [One to One and Onto](https://www.youtube.com/watch?v=plSzGYwo-ew)
   - [Computing Inverse Function](https://www.youtube.com/watch?v=2zeYEx4eTdc)
-  - [Horisontal Line Test](https://www.youtube.com/watch?v=6u9Qh1Vi_Qw&t=66s)
+  - [Horisontal Line Test](https://www.youtube.com/watch?v=6u9Qh1Vi_Qw)
   - [Composite Functions](https://www.youtube.com/watch?v=ZFPkQkURSxk)
  
 ### 06 Logarithms
@@ -57,9 +59,16 @@
   - [Absolute Value Function](https://www.youtube.com/watch?v=X2OYT2vByPQ)
 
 ### 09 Trigonometry
-
-
-
+  - [Angles of a Regular Polygon](https://www.youtube.com/watch?v=OEzEo4XqzJQ)
+  - [Radians and Degrees](https://www.youtube.com/watch?v=JmLN3QxshlE)
+  - [Arc Length & Sector Area](https://www.youtube.com/watch?v=C9z3FXS7nlo)
+  - [Right Triangle Tigonomtery](https://www.youtube.com/watch?v=PUB0TaZ7bhA)
+  - [reciprocal identities](https://www.youtube.com/watch?v=srj8b-RlXeg)
+  - [Quotient Identities](https://www.youtube.com/watch?v=7PVKbyLFY5U)
+  - [Pythagorean Identities](https://www.youtube.com/watch?v=TpADRvW8zm8)
+  - [Factoring Trigonometric Identities](https://www.youtube.com/watch?v=oGoqwcyCX7s)
+  - [add two rational trigonometric expressions](https://www.youtube.com/watch?v=Sruf3n9hPMk)
+  - [Verifying Trigonometric Identities](https://www.youtube.com/watch?v=Rf05H8ogHLg)
 
 
 > New to Github?
