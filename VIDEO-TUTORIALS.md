@@ -57,3 +57,10 @@
   - [Absolute Value Function](https://www.youtube.com/watch?v=X2OYT2vByPQ)
 
 ### 09 Trigonometry
+
+
+
+
+---
+> New to Github?
+[Create a account](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E&source=header) and [follow me](https://github.com/ka0un) you will thanks me later ❤️
